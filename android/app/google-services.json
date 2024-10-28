@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "24828021726",
+    "project_id": "tdmu-book",
+    "storage_bucket": "tdmu-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24828021726:android:b7bc8560eac644a486eb4f",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24828021726-ae26npu2mrc5r80sou8ljp1746fdk178.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ0fMLw-ff4FouZ209Tf3n79SOXhOpqNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24828021726-ae26npu2mrc5r80sou8ljp1746fdk178.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "24828021726-ifh61dto9b9p5ovn1b0u3vmimijlf2pn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tdmubook"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24828021726:android:be1889e6e3c7ba7c86eb4f",
+        "android_client_info": {
+          "package_name": "com.example.tdmubook"
+        }
+      },
+      "oauth_client": [
+        {
+        "client_id": "24828021726-19kiipbt42l2ovu5a3qgh05ss9v0cpqk.apps.googleusercontent.com",
+        "client_type": 1,
+        "android_info": {
+          "package_name": "com.example.tdmubook",
+          "certificate_hash": "f728a496a34d128179858a518c9f1ad9470dfac3"
+        }
+      },
+        {
+          "client_id": "24828021726-ae26npu2mrc5r80sou8ljp1746fdk178.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ0fMLw-ff4FouZ209Tf3n79SOXhOpqNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24828021726-ae26npu2mrc5r80sou8ljp1746fdk178.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "24828021726-ifh61dto9b9p5ovn1b0u3vmimijlf2pn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tdmubook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
